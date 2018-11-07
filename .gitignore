@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+*.stash
+build/debug/moc_predefs.h
+build/debug/moc_testvoilierautonome.cpp
+build/Makefile
+*.Debug
+*.Release
+*.bat
+*.user
